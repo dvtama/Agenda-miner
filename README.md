@@ -34,4 +34,5 @@
 ## 備考
 作成者：でぶたま
 サイト：https://sites.google.com/dvtama.com/agendaminer/
+
 ご意見フォーム：https://docs.google.com/forms/d/e/1FAIpQLSdP-pepRcoJn5A0_CxPMzz-v1JWqDy0efkOT19Tc5FAox8HUA/viewform
